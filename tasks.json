@@ -1,0 +1,12 @@
+[
+    {
+        "task": "do homework",
+        "complete": true,
+        "date": "30-06-2025 21:06"
+    },
+    {
+        "task": "clean the house",
+        "complete": false,
+        "date": "30-06-2025 21:06"
+    }
+]
