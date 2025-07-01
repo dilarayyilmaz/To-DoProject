@@ -45,7 +45,6 @@ def delete_task():
         print("Invalid number!")
 
 
-
 def complete_task():
     for i, task in enumerate(tasks, start=1):
         status = "✓" if task["complete"] else "✗"
