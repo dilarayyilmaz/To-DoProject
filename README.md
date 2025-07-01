@@ -1,0 +1,1 @@
+This project is a simple task tracking app where users can effortlessly add and delete tasks, as well as mark them as completed. Tasks are saved in a JSON file and loaded from this file every time the application runs.
