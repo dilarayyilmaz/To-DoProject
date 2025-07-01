@@ -45,13 +45,6 @@ def delete_task():
         print("Invalid number!")
 
 
-# def complete_task():
-#      cmp= int(input("The task number you want to complete: ")) - 1
-#      if 0<= cmp <len(tasks):
-#          tasks[cmp]["complete"]=True
-#          print(f"Your task '{tasks[cmp]['sentence']}' is complete.")
-#      else:
-#          print("No such task found!!")
 
 def complete_task():
     for i, task in enumerate(tasks, start=1):
